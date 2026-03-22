@@ -1,6 +1,6 @@
 # Problem Plecakowy (Knapsack Problem) - C# & .NET 8.0
 
-Projekt zrealizowany w ramach laboratorium z przedmiotu Platformy Programistyczne .NET i Java. Celem projektu jest praktyczne zastosowanie języka C# oraz paradygmatów programowania obiektowego do rozwiązania klasycznego problemu optymalizacyjnego.
+Projekt zrealizowany w ramach laboratorium z przedmiotu Platformy Programistyczne .NET i Java.
 
 ## Opis Projektu
 Aplikacja rozwiązuje decyzyjny problem plecakowy (0-1 Knapsack Problem) przy użyciu algorytmu zachłannego. Projekt został podzielony na trzy główne etapy:
